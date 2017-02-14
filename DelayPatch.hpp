@@ -28,8 +28,7 @@
 #ifndef __SimpleDelayPatch_hpp__
 #define __SimpleDelayPatch_hpp__
 
-#include "StompBox.h"
-#include "CircularBuffer.hpp"
+#include "Patch.h"
 
 #define SIMPLE_DELAY_REQUEST_BUFFER_SIZE 1024*128
 
