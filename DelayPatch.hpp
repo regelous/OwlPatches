@@ -33,7 +33,6 @@
 #define SIMPLE_DELAY_REQUEST_BUFFER_SIZE 1024*128
 
 
-
 // CircularBuffer code
 
 class CircularBuffer {
